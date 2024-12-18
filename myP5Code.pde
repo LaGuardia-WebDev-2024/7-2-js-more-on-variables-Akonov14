@@ -33,6 +33,10 @@ void draw(){
   
   fill(0,0,0)
 
+
+
+x = mouseX
+y = mouseY
 }
 
 
